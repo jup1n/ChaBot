@@ -1,7 +1,7 @@
-import Home from './screens/home';
+import Cadastro from './screens/cadastro';
 
 export default function App() {
   return (
-    <Home/>
+    <Cadastro/>
   );
 }
